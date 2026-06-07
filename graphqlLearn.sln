@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.0.31903.59
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Graphql.Demo", "Graphql.Demo\Graphql.Demo.csproj", "{AFAE53FB-631C-4AF3-864C-1240EE5FD6B7}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Graphql.Demo", "..\src\Graphql.Demo\Graphql.Demo.csproj", "{AFAE53FB-631C-4AF3-864C-1240EE5FD6B7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Core", "Core\Core.csproj", "{B7A2CC9A-2BFB-4BC0-8A0F-8929A6EBCB83}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Core", "..\src\Core\Core.csproj", "{B7A2CC9A-2BFB-4BC0-8A0F-8929A6EBCB83}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Graphql.Demo.Test", "Graphql.Demo.Test\Graphql.Demo.Test.csproj", "{64BC2C58-C5B0-47E0-B684-455B140AFFD3}"
 EndProject
